@@ -108,7 +108,7 @@ I'm a cybersecurity enthusiast and AI explorer with a passion for creating impac
 
 <div align="center">
   
-  ![Snake animation](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
+  ![Snake animation](https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg)
   
 </div>
 
