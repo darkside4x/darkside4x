@@ -122,16 +122,3 @@ I'm a cybersecurity enthusiast and AI explorer with a passion for creating impac
 
 </div>
 
-<style>
-@keyframes rainbow {
-  0% {border-image-source: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);}
-  12.5% {border-image-source: linear-gradient(45deg, #ff00c8, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff);}
-  25% {border-image-source: linear-gradient(45deg, #7a00ff, #ff00c8, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff);}
-  37.5% {border-image-source: linear-gradient(45deg, #002bff, #7a00ff, #ff00c8, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5);}
-  50% {border-image-source: linear-gradient(45deg, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000, #ff7300, #fffb00, #48ff00);}
-  62.5% {border-image-source: linear-gradient(45deg, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000, #ff7300, #fffb00);}
-  75% {border-image-source: linear-gradient(45deg, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000, #ff7300);}
-  87.5% {border-image-source: linear-gradient(45deg, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);}
-  100% {border-image-source: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8);}
-}
-</style>
