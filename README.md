@@ -95,9 +95,6 @@ I'm a cybersecurity enthusiast and AI explorer with a passion for creating impac
   </a>
 </div>
 
-<div align="center">
-  <img src="f.png" width="200" alt="Connect with me" />
-</div>
 
 <br>
 
