@@ -1,6 +1,5 @@
 <div style="border: 16px solid transparent; border-image: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000) 1; border-image-slice: 1; animation: rainbow 5s linear infinite;">
 
-![Header]()
 
 # Hello, World! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
