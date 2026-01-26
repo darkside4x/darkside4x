@@ -33,13 +33,11 @@ I'm a cybersecurity enthusiast and AI explorer with a passion for creating impac
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=googlecloud)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=orange)
 
-### 🧠 AI & Data
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-05122A?style=flat&logo=tensorflow)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-05122A?style=flat&logo=scikitlearn)
-![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-05122A?style=flat&logo=thealgorithms)
 
 ### 🎨 Design
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
+![Canva](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+
 
 ## 🏅 Certifications
 
