@@ -18,14 +18,11 @@
 ## 🛠️ Technical Skills
 
 ### 🔒 Cybersecurity
-![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-05122A?style=flat&logo=kalilinux)
-![Ethical Hacking](https://img.shields.io/badge/-Ethical_Hacking-05122A?style=flat&logo=hackaday)
-![API Security](https://img.shields.io/badge/-API_Security-05122A?style=flat&logo=fastapi)
 ![Linux Security](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Web Design](https://img.shields.io/badge/-Web_Design-05122A?style=flat&logo=html5)
+![C](https://img.shields.io/badge/-C%20lang-05122A?style=flat&logo=C)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
 
@@ -36,7 +33,7 @@
 
 ### 🎨 Design
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
-![Canva](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 
 ## 🏅 Certifications
